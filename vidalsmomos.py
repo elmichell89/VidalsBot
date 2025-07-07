@@ -1,5 +1,8 @@
-#Vidalsmomos bot xd
+#Vidalsmomos Bot - Prueba
 #verde #00ff00 - HSV 120,100,100
+#Falta:
+# - añadir función para tomar los archivos de manera aleatoria dentro de una carpeta
+# - entender bien qué hace a partir de la línea 29
 
 import cv2 as cv
 import numpy as np
