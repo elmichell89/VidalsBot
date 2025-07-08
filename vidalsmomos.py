@@ -1,11 +1,16 @@
 #Vidalsmomos Bot - Prueba
 #verde #00ff00 - HSV 120,100,100
 #Falta:
-# - añadir función para tomar los archivos de manera aleatoria dentro de una carpeta
+# - añadir función para tomar los archivos de manera aleatoria dentro de una carpeta --> checar que jalen lineas 9,10,12,13
 # - entender bien qué hace a partir de la línea 29
 
 import cv2 as cv
 import numpy as np
+#import os
+#import random
+
+#template = cv.imread(random.choice(os.listdir("")))
+#source = cv.imread(random.choice(os.listdir("")))
 
 template = cv.imread('template1.jpg')
 source = cv.imread('source1.jpg')
