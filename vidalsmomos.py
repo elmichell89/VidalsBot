@@ -1,4 +1,4 @@
-#Vidalsmomos Bot - Prueba
+#Vidals Bot 1.0
 #verde #00ff00 - HSV 120,100,100
 
 import cv2 as cv
