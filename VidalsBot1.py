@@ -1,6 +1,9 @@
 #Vidals Bot 1.0
 #verde #00ff00 - HSV 120,100,100
 
+#Posibles Mejoras:
+# - Colocar path específico para guardar las imagenes resultantes
+
 import cv2 as cv
 import numpy as np
 import os
