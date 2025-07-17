@@ -3,6 +3,7 @@
 
 #Posibles Mejoras:
 # - Colocar path específico para guardar las imagenes resultantes
+# - Añadir función para publicar automáticamente en facebook
 
 import cv2 as cv
 import numpy as np
